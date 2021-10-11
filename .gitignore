@@ -1,6 +1,6 @@
 venv
 *.pyc
 __pycache__
-localsettings.py
-db.sqlite3
+local_settings.py
 .idea
+db.sqlite3
